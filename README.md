@@ -1,5 +1,8 @@
 # ML---Rocks-vs-Mines
 
+--This is basically kaggle problem
+https://www.kaggle.com/mattcarter865/mines-vs-rocks
+
 (Basic)
 Problem Definition
 
